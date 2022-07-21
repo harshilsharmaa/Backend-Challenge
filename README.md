@@ -8,3 +8,6 @@
     - if ( current calories + foodItem calories > total calories) if yes: reject, if no consider it.
  4. if the number of food item is greater than 5 and the protein requirement is not satisfied than repeat step 3 again.
  5. Stop, and we get our food items.
+
+
+### Level 1 and Level 2 are in code.
